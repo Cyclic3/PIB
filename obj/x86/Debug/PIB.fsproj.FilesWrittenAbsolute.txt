@@ -1,0 +1,6 @@
+/home/harlan/Projects/PIB/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.fs
+/home/harlan/Projects/PIB/bin/Debug/PIB.exe.mdb
+/home/harlan/Projects/PIB/bin/Debug/PIB.exe
+/home/harlan/Projects/PIB/obj/x86/Debug/PIB.exe
+/home/harlan/Projects/PIB/obj/x86/Debug/PIB.exe.mdb
+/home/harlan/Projects/PIB/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.fs
